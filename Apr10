@@ -1,0 +1,6 @@
+echo "# STUDY" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/zhangpg-521/STUDY.git
+git push -u origin master
